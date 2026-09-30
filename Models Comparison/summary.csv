@@ -1,0 +1,4 @@
+model,unseen_pool_accuracy_pct,own_test_set_iou
+Baseline DeepLabV3+,81.3,0.5342
+Enhanced DeepLabV3+,88.1,0.579
+YOLO26s-sem,85.65,0.57
